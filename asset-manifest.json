@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fe_vietcharity/static/css/main.02a17381.css",
-    "main.js": "/fe_vietcharity/static/js/main.d76e5995.js",
-    "static/media/backgroundLogin.jpg": "/fe_vietcharity/static/media/backgroundLogin.9d06752ef9434f9031ad.jpg",
-    "static/media/charity4.jpg": "/fe_vietcharity/static/media/charity4.062b9d4906535e825f81.jpg",
-    "static/media/charity3.jpg": "/fe_vietcharity/static/media/charity3.42e50908fd216424fbee.jpg",
-    "static/media/charity5.jpg": "/fe_vietcharity/static/media/charity5.f83977f3dd4c89cef620.jpg",
-    "static/media/start.jpg": "/fe_vietcharity/static/media/start.7119466337cee0e790d5.jpg",
-    "static/media/charity6.jpg": "/fe_vietcharity/static/media/charity6.61eb257a05d80724ad21.jpg",
-    "static/media/avatarDuc.jpg": "/fe_vietcharity/static/media/avatarDuc.3dda8c463a40ff464f85.jpg",
-    "static/media/ducimage.jpg": "/fe_vietcharity/static/media/ducimage.30311d40711ca3050a86.jpg",
-    "static/media/backgroundGradient.jpg": "/fe_vietcharity/static/media/backgroundGradient.e5a0a16d41f1dc7476a0.jpg",
-    "static/media/cardBackground.png": "/fe_vietcharity/static/media/cardBackground.cf96c43a68af6d93b838.png",
-    "static/media/line.png": "/fe_vietcharity/static/media/line.3f32a47c743c0e3e86fb.png",
-    "static/media/line1.png": "/fe_vietcharity/static/media/line1.2e719dd2a1aae122893c.png",
-    "index.html": "/fe_vietcharity/index.html",
-    "main.02a17381.css.map": "/fe_vietcharity/static/css/main.02a17381.css.map",
-    "main.d76e5995.js.map": "/fe_vietcharity/static/js/main.d76e5995.js.map"
+    "main.css": "/static/css/main.02a17381.css",
+    "main.js": "/static/js/main.be59ed4d.js",
+    "static/media/backgroundLogin.jpg": "/static/media/backgroundLogin.9d06752ef9434f9031ad.jpg",
+    "static/media/charity4.jpg": "/static/media/charity4.062b9d4906535e825f81.jpg",
+    "static/media/charity3.jpg": "/static/media/charity3.42e50908fd216424fbee.jpg",
+    "static/media/charity5.jpg": "/static/media/charity5.f83977f3dd4c89cef620.jpg",
+    "static/media/start.jpg": "/static/media/start.7119466337cee0e790d5.jpg",
+    "static/media/charity6.jpg": "/static/media/charity6.61eb257a05d80724ad21.jpg",
+    "static/media/avatarDuc.jpg": "/static/media/avatarDuc.3dda8c463a40ff464f85.jpg",
+    "static/media/ducimage.jpg": "/static/media/ducimage.30311d40711ca3050a86.jpg",
+    "static/media/backgroundGradient.jpg": "/static/media/backgroundGradient.e5a0a16d41f1dc7476a0.jpg",
+    "static/media/cardBackground.png": "/static/media/cardBackground.cf96c43a68af6d93b838.png",
+    "static/media/line.png": "/static/media/line.3f32a47c743c0e3e86fb.png",
+    "static/media/line1.png": "/static/media/line1.2e719dd2a1aae122893c.png",
+    "index.html": "/index.html",
+    "main.02a17381.css.map": "/static/css/main.02a17381.css.map",
+    "main.be59ed4d.js.map": "/static/js/main.be59ed4d.js.map"
   },
   "entrypoints": [
     "static/css/main.02a17381.css",
-    "static/js/main.d76e5995.js"
+    "static/js/main.be59ed4d.js"
   ]
 }
